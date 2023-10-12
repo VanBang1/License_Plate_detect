@@ -34,7 +34,7 @@ This repo uses 2 sets of data for 2 stage of license plate recognition problem:
 
 -This dataset is belong to [Mì Ai](https://www.miai.vn/thu-vien-mi-ai/) and [winter2897](https://github.com/winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano/blob/main/doc/dataset.md).
 
--This model based on this project https://github.com/Marsmallotr/License-Plate-Recognition.git
+-This is the study project and is based on this original project https://github.com/Marsmallotr/License-Plate-Recognition.git
 ## Training
 
 **Training code for Yolov5:**
